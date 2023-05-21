@@ -1,9 +1,9 @@
 # AI-5_B1_RPGgame
-# Python-RPGgame
+# Python-RPGgame-Project
 Terminal을 이용한 RPG Game!
 
 ## 🖥️ 프로젝트 소개
-python으로 작성된 코드를 Terminal에서 실행하는 RPG Game입니다.
+Python으로 작성된 코드를 Terminal에서 실행하는 RPG Game입니다.
 
 ## 🕰️ 개발 기간
 * 23.03.29 - 23.03.31
